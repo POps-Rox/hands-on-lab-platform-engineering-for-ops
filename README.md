@@ -1,3 +1,10 @@
+<!-- BADGES:START -->
+[![CI](https://github.com/POps-Rox/hands-on-lab-platform-engineering-for-ops/actions/workflows/ci.yml/badge.svg)](https://github.com/POps-Rox/hands-on-lab-platform-engineering-for-ops/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/POps-Rox/hands-on-lab-platform-engineering-for-ops/pulls)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/POps-Rox/hands-on-lab-platform-engineering-for-ops/graphs/commit-activity)
+<!-- BADGES:END -->
+
 # Platform Engineering for Ops - Workshop
 
 This repository is meant to be used with the [MOAW (Mother of All Workshops) platform](https://moaw.dev). The live version of this workshop can be found [here](https://moaw.dev/workshop/gh:microsoft/hands-on-lab-platform-engineering-for-ops/main/docs/).
