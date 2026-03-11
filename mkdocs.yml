@@ -1,0 +1,18 @@
+site_name: "Hands-on Lab: Platform Engineering for Ops"
+site_description: Documentation for Hands-on Lab: Platform Engineering for Ops
+repo_url: https://github.com/POps-Rox/hands-on-lab-platform-engineering-for-ops
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
